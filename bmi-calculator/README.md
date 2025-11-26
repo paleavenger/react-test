@@ -25,17 +25,17 @@
 
 ---
 
-## 📂 Скриншоты приложения
+##  Скриншоты приложения
 
 ### Главный экран
 
-![screenshot1](./screen1.png)
+![screenshot1](./src/screen1.png)
 
 
-![screenshot2](./screen2.png)
+![screenshot2](./src/screen2.png)
 
 
-![screenshot3](./screen3.png)
+![screenshot3](./src/screen3.png)
 
 ---
 
